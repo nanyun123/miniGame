@@ -7,4 +7,4 @@
 .vsconfig
 /Plugins/*/Binaries/
 /Plugins/*/Intermediate/
-Maze.sln
+pack.sln
